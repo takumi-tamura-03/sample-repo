@@ -15,3 +15,6 @@ ee
 
 もう一度次はmix
 git reset HEAD~して再度コミット
+
+もう一度mix
+更新
